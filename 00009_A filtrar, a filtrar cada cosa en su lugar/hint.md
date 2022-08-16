@@ -1,0 +1,1 @@
+Acá también vas a necesitar empezar con una lista vacía, pero a diferencia de cuando hicimos el mapeo, acá no vas a agregar elementos en cada iteración, solo en algunos casos. :eyes:

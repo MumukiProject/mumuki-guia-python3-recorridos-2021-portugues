@@ -1,0 +1,22 @@
+---
+name: Recorridos
+locale: es
+type: learning
+beta: false
+teacher_info: ''
+language: python3
+id_format: "%05d"
+order:
+- 17
+- 5
+- 8
+- 13
+- 20
+- 21
+- 9
+- 18
+- 22
+- 23
+- 24
+- 19
+private: false

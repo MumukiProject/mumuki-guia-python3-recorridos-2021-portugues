@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresFunction:meses
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: meses
+  inspection: Not:UsesForeach

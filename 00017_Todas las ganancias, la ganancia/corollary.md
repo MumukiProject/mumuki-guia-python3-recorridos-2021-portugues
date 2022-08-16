@@ -1,0 +1,3 @@
+¡Excelente! :star_struck:
+
+En este caso como queríamos obtener una sumatoria, nuestra variable tenía que inicializarse en 0 ya que es el valor neutro de la suma. Si por ejemplo quisieramos hacer una productoria (lo mismo que la sumatoria pero multiplicando) deberíamos inicializar nuestra variable en 1. No siempre es fácil darse cuenta qué valor inicial debemos utilizar, pero es muy importante que lo pensemos antes de encarar el `for...in`. :hugging:
