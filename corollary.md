@@ -1,3 +1,3 @@
-En esta última lección te reencontraste con el `for...in` y resolviste problemas más complejos con él :exploding_head:. Más especificamente creaste funciones para filtrar y/o transformar los elementos de una lista. 
+Nesta última lição você se reencontrou com o `for...in` e resolveu problemas mais complexos com ele :exploding_head:. Mais especificamente, você criou funções para filtrar e/ou transformar os elementos de uma lista.
 
-¡Muy buen trabajo! :thumbsup:
+Muito bom trabalho! :thumbsup:
