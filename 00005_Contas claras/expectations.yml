@@ -2,4 +2,4 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresFunction:cantidad_de_balances_positivos
+  inspection: DeclaresFunction:quantidade_de_balancos_positivos

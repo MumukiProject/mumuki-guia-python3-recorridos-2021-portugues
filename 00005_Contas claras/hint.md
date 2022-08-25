@@ -1,0 +1,1 @@
+O importante neste exercício é inicializar uma variável local e incrementá-la somente quando apropriado. Para isso você terá que usar um `if`. :nerd:
