@@ -2,4 +2,4 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresFunction:balances_de_meses_largos
+  inspection: DeclaresFunction:balancos_de_meses_longos
