@@ -2,7 +2,7 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresFunction:afortunados
+  inspection: DeclaresFunction:sortudo
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: afortunados
+  binding: sortudo
   inspection: Not:UsesForeach
