@@ -3,8 +3,7 @@ Ana faz muitas projeções sobre os balanços de sua empresa, então dissemos a 
 ``` python
 ム balanços_ultimo_semestre = [
     { "mes": "julho", "lucro": 50 },
-
-  { "mes": "agosto", "lucro": -12 },
+    { "mes": "agosto", "lucro": -12 },
     { "mes": "setembro", "lucro": 1000 },
     { "mes": "outubro", "lucro": 300 },
     { "mes": "novembro", "lucro": 200 },
