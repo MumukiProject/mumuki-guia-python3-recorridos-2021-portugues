@@ -2,13 +2,13 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresFunction:meses_afortunados
+  inspection: DeclaresFunction:meses_sortudos
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: meses_afortunados
+  binding: meses_sortudos
   inspection: Not:Uses:meses
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: meses_afortunados
-  inspection: Not:Uses:afortunados
+  binding: meses_sortudos
+  inspection: Not:Uses:sortudos
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: meses_afortunados
+  binding: meses_sortudos
   inspection: Not:UsesForeach
