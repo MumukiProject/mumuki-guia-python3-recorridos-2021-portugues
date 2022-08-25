@@ -1,7 +1,7 @@
 Ana faz muitas projeções sobre os balanços de sua empresa, então dissemos a ela que poderíamos dar uma ajuda agora que sabemos mapear. O que ela quer fazer é ver quais seriam os lucros em um balanço se todos eles estivessem em dobro :moneybag:. Por exemplo:
 
 ``` python
-ム balanços_ultimo_semestre = [
+ム balancos_ultimo_semestre = [
     { "mes": "julho", "lucro": 50 },
     { "mes": "agosto", "lucro": -12 },
     { "mes": "setembro", "lucro": 1000 },
