@@ -1,6 +1,6 @@
 
   def test_meses_de_un_trimestre_devuelve_tres_meses(self):
-    self.assertEqual(meses([{ "mes": "enero", "ganancia": 10 }, { "mes": "febrero", "ganancia": 2 }, { "mes": "marzo", "ganancia": 5 }]), ["enero", "febrero", "marzo"])
+    self.assertEqual(meses([{ "mes": "janeiro", "ganancia": 10 }, { "mes": "fevereiro", "ganancia": 2 }, { "mes": "março", "ganancia": 5 }]), ["janeiro", "fevereiro", "março"])
   
   def test_meses_de_un_semestre_devuelve_seis_meses(self):
-    self.assertEqual(meses([{ "mes": "enero", "ganancia": 10 }, { "mes": "febrero", "ganancia": 2 }, { "mes": "marzo", "ganancia": 5 }, { "mes": "abril", "ganancia": 8 }, { "mes": "mayo", "ganancia": 12 }, { "mes": "junio", "ganancia": 25 }]), ["enero", "febrero", "marzo", "abril", "mayo", "junio"])
+    self.assertEqual(meses([{ "mes": "janeiro", "ganancia": 10 }, { "mes": "fevereiro", "ganancia": 2 }, { "mes": "março", "ganancia": 5 }, { "mes": "abril", "ganancia": 8 }, { "mes": "maio", "ganancia": 12 }, { "mes": "junho", "ganancia": 25 }]), ["janeiro", "fevereiro", "março", "abril", "maio", "junho"])
