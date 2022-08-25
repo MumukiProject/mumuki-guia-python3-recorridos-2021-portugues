@@ -2,4 +2,4 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresFunction:doble_de_ganancias
+  inspection: DeclaresFunction:dobro_do_lucro
