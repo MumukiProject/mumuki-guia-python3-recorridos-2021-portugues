@@ -3,5 +3,5 @@ rules:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     only_these_expectations_failed:
-    - ganancia_total UsesForeach
-  then: no te olvides de usar un `for...in` para recorrer la lista de balances
+    - lucro_total UsesForeach
+  then: não se esqueça de usar um `for...in` para percorrer a lista de balanços

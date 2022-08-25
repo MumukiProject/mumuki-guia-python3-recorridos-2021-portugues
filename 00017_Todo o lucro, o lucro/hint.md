@@ -1,0 +1,1 @@
+Nosso velho amigo `for...in` e uma variável local nos ajudarão nessa tarefa. O importante é pensar com qual valor inicializamos e o que devemos fazer em cada iteração. :relaxed:
