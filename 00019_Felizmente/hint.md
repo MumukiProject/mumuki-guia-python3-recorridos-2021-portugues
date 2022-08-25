@@ -1,0 +1,1 @@
+Neste exercício você não terá que fazer um `for...in`, apenas invocar `meses` e `sortudos` corretamente. Para que possa se lembrar você pode ver a `Extra`. :relaxed:
