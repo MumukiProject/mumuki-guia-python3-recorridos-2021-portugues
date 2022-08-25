@@ -7,8 +7,8 @@ Vamos ver como funcionam, se de uma lista de strings quiséssemos obter uma list
 def comprimento(palavras):
   longo = []
   for palavra in palavras:
-list.append(longo, len(palavra))
-   return longo
+    list.append(longo, len(palavra))
+  return longo
 ```
 
 No entanto, também podemos fazer dessa maneira usando as compreensões de listas:
