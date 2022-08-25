@@ -1,0 +1,1 @@
+Caso você não se lembre, os meses com 31 dias são janeiro, março, maio, julho, agosto, outubro e dezembro. :calendar_spiral:
