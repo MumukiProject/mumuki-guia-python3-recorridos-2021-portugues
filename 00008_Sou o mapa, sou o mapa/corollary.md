@@ -1,1 +1,1 @@
-¡Excelente! :clap: Ahora ya sabemos cómo transformar cada elemento de una lista para obtener una lista nueva :muscle:. Esta operación es muy común y se conoce como _mapeo_ de una lista. 
+Excelente! :clap:Agora já sabemos como transformar cada elemento de uma lista para obter uma lista nova :muscle:. Esta operação é muito comum e é conhecida como _mapeamento_ de uma lista. 
