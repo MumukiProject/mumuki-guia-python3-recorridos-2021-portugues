@@ -1,3 +1,3 @@
-¡Excelente! :raised_hands:
+Excelente! :raised_hands:
 
-Lo bueno de conocer más de una manera de hacer lo mismo es que puedas elegir qué herramienta te gusta más para resolver los problemas. :hammer_pick:
+O bom de saber mais de uma maneira de fazer a mesma coisa é que você pode escolher qual ferramenta você mais gosta para resolver problemas. :hammer_pick:
