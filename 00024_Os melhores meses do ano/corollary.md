@@ -1,3 +1,3 @@
-¡Muy bien! :tada:
+Muito bem! :tada:
 
-Si bien esta es una forma de resolver el problema tiene como contra que no aprovechamos las funciones definidas previamente. Vamos a ver otra forma de resolver este problema en el próximo ejercicio. :muscle: 
+Embora esta seja uma forma de resolver o problema, tem a desvantagem de não aproveitarmos as funções definidas anteriormente. Veremos outra maneira de resolver esse problema no próximo exercício. :muscle: 
