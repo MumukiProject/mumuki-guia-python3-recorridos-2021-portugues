@@ -1,10 +1,10 @@
-¡Excelente! :clap:
+Excelente! :clap:
 
-También se puede combinar la idea de filtrar y de mapear en las listas por comprensión. Por ejemplo: si quisieramos el doble de los números mayores a 5 podríamos hacer:
+Também é possível combinar a ideia de filtrar e mapear nas compreensões de listas. Por exemplo: se quiséssemos o dobro dos números maiores que 5 poderíamos fazer:
 
 ``` python
-def doble_de_los_mayores_a_5(numeros)
+def dobro_dos_maiores_que_5(numeros)
   [numero * 2 for numero in numeros if numero > 5]
 ```
 
-A modo de resumen, la sintaxis general de las listas por comprensión es `[expresion for elemento in lista if condicion]`. :sunglasses:
+Em resumo, a sintaxe geral das compreensões de listas é `[expressão for elemento in lista if condição]`. :sunglasses:
