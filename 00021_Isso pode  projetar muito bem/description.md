@@ -10,8 +10,6 @@ Ana faz muitas projeções sobre os balanços de sua empresa, então dissemos a 
     { "mes": "dezembro", "lucro": 0 }
 ]
 
-]
-
 ムdobro_do_lucro(balanços_ultimo_semestre)
 [100, -24, 2000, 600, 400, 0]
 ```
