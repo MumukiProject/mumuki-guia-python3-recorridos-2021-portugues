@@ -7,8 +7,8 @@ def maiores_que_5(numeros):
   maiores = []
   para numero in numeros:
 
-	if numero > 5:
-  	list.append(maiores, numero)
+  if numero > 5:
+    list.append(maiores, numero)
   return maiores
 ```
 
