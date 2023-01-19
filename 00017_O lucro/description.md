@@ -1,7 +1,7 @@
 Ana, contadora de uma conhecida empresa :office:, tem dicionários para representar os balanços de cada mês e diferentes listas para armazená-los. Por exemplo:
 
 ``` python
-#Em julho ele ganhou $50, em agosto ele perdeu $12, etc.
+#Em julho ela ganhou $50, em agosto ela perdeu $12, etc.
 balancos_ultimo_semestre = [
     { "mes": "julho", "lucro": 50 },
     { "mes": "agosto", "lucro": -12 },
