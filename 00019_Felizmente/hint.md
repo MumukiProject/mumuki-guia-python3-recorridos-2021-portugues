@@ -1,1 +1,1 @@
-Neste exercício você não terá que fazer um `for...in`, apenas invocar `meses` e `sortudo` corretamente. Para que possa se lembrar você pode ver a `Extra`. :relaxed:
+Neste exercício você não terá que fazer um `for...in`, apenas invocar `meses` e `sortudo` corretamente. Para se lembrar dessas funções, você pode ver a guia `Extra`. :relaxed:
