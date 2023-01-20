@@ -5,10 +5,10 @@ Vamos ver como funcionam, se de uma lista de strings quiséssemos obter uma list
 
 ``` python
 def comprimento(palavras):
-  longo = []
+  tamanho = []
   for palavra in palavras:
-    list.append(longo, len(palavra))
-  return longo
+    list.append(tamanho, len(palavra))
+  return tamanho
 ```
 
 No entanto, também podemos fazer dessa maneira usando as compreensões de listas:
