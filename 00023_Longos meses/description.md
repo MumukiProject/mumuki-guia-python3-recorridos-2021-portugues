@@ -7,7 +7,7 @@ Fora a piada de mau gosto, alguns meses são mais longos que outros, por isso qu
 
 ``` python
 ム balancos_primeiro_trimestre = [
-  { "mes": "janeiro", "lucro": 2 },
+	{ "mes": "janeiro", "lucro": 2 },
   { "mes": "fevereiro", "lucro": 10 },
   { "mes": "março", "lucro": -20 }
 ]
