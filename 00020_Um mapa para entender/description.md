@@ -11,7 +11,7 @@ def comprimento(palavras):
   return tamanho
 ```
 
-No entanto, também podemos fazer dessa maneira usando as compreensões de listas:
+No entanto, também podemos fazer isso usando as compreensões de listas:
 
 ``` python
 def comprimento(palavras):
