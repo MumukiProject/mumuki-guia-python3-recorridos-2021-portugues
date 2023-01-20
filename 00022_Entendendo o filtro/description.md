@@ -5,10 +5,9 @@ Vamos imaginar que temos a função `maiores_que_5`  que, dada uma lista de núm
 ``` python
 def maiores_que_5(numeros):
   maiores = []
-  para numero in numeros:
-
-  if numero > 5:
-    list.append(maiores, numero)
+  for numero in numeros:
+    if numero > 5:
+      list.append(maiores, numero)
   return maiores
 ```
 
