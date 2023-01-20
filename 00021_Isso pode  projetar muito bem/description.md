@@ -16,4 +16,4 @@ Ana faz muitas projeções sobre os balanços de sua empresa, então dissemos a 
 
 Como você verá, se os lucros forem negativos agora eles serão duas vezes negativos! :chart_with_downwards_trend:
 
-> Defina a função `dobro_do_lucro`. Você pode usar `for...in` como compreensão de listas, o que você preferir.  :relaxed:
+> Defina a função `dobro_do_lucro`. Você pode usar `for...in` ou compreensão de listas, o que você preferir.  :relaxed:
