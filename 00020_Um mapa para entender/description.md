@@ -1,4 +1,4 @@
-No exercício anterior fizemos um mapeamento usando `for...in`. Em Python, temos outras maneiras de fazer isso, as compreensões de lista! :star_struck:
+No exercício anterior fizemos um mapeamento usando `for...in`. Em Python, temos outras maneiras de fazer isso, com as compreensões de lista! :star_struck:
 
 Vamos ver como funcionam, se de uma lista de strings quiséssemos obter uma lista com os comprimentos de cada uma, poderíamos definir:
 
