@@ -1,1 +1,1 @@
-Nas lições anteriores definimos funções, usamos dicionários e listas. Agora que temos todas essas ferramentas, é hora de combiná-las e aprender a fazer coisas mais complexas passando por elas. Junte-se a nós!
+Nas lições anteriores definimos funções, usamos dicionários e listas. Agora que temos todas essas ferramentas, é hora de combiná-las e aprender a fazer coisas mais complexas passeando por elas. Junte-se a nós!
