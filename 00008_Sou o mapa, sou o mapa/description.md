@@ -4,7 +4,7 @@ Além dos lucros acumulados ou dos balanços positivos, Ana gostaria de poder ob
 > Defina a função `lucros` que pegue uma lista de balanços e retorne uma lista contendo apenas os lucros de cada um.
 >
 > ``` python
-> ム lucros([
+> ムlucros([
   { "mes": "janeiro", "lucro": 40 },
   { "mes": "fevereiro", "lucro": 12 },
   { "mes": "março", "lucro": 8}

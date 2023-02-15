@@ -23,6 +23,6 @@ Dito isso, Ana precisa saber o lucro acumulado para um conjunto de balanços.
 > Defina a função `lucro_total` que, dada uma lista de balanços qualquer, retorne a soma de todos eles:
 >
 ``` python
-ム lucro_total(balancos_ultimo_semestre)
+ムlucro_total(balancos_ultimo_semestre)
 1538
 ```

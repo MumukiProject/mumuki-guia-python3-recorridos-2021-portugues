@@ -6,13 +6,13 @@ Fora a piada de mau gosto, alguns meses são mais longos que outros, por isso qu
 
 
 ``` python
-ム balancos_primeiro_trimestre = [
+ムbalancos_primeiro_trimestre = [
   { "mes": "janeiro", "lucro": 2 },
   { "mes": "fevereiro", "lucro": 10 },
   { "mes": "março", "lucro": -20 }
 ]
 
-ム balancos_de_meses_longos (balanços_primeiro_trimestre)
+ムbalancos_de_meses_longos (balanços_primeiro_trimestre)
 [{ "mes": "janeiro", "lucro": 2 }, { "mes": "março", "lucro": -20 }]
 ```
 
