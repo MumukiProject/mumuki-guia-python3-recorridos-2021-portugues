@@ -1,1 +1,1 @@
-Aqui você também vai precisar começar com uma lista vazia, mas diferente de quando fizemos o mapeamento, aqui você não vai adicionar elementos em cada iteração, apenas em alguns casos.  :eyes:
+Aqui você também vai precisar começar com uma lista vazia, mas diferente de quando fizemos o mapeamento, aqui você não vai adicionar elementos em cada iteração, apenas em alguns casos. :eyes:
