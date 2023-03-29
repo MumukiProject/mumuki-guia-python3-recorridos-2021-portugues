@@ -4,6 +4,9 @@ expectations:
   binding: "*"
   inspection: DeclaresFunction:meses_sortudos
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity1:meses_sortudos
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Intransitive:meses_sortudos
   inspection: Not:UsesIf
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
