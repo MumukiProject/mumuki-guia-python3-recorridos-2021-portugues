@@ -4,7 +4,7 @@ Também é possível combinar a ideia de filtrar e mapear nas compreensões de l
 
 ``` python
 def dobro_dos_maiores_que_5(numeros)
-  [numero * 2 for numero in numeros if numero > 5]
+  return [numero * 2 for numero in numeros if numero > 5]
 ```
 
 Em resumo, a sintaxe geral das compreensões de listas é `[expressão for elemento in lista if condição]`. :sunglasses:
