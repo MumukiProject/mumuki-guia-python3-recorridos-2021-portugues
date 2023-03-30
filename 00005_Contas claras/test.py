@@ -12,7 +12,7 @@
     self.assertEqual(quantidade_de_balancos_positivos([{ "mes": "março", "lucro": 0 }, { "mes": "agosto", "lucro": 0 }]), 0)
 
   def test_quantidade_de_balanços_positivos_com_três_balanços_positivos_e_um_negativo_da_três(self):
-    self.assertEqual(quantidade_de_balancos_positivos([{ "mes": "janeiro", "lucro": 10 }, { "mes": "fevereiro", "lucro": -10 }, { "mes": "março", "lucro": 2 }, { "mes": "abril", "lucro": 100 }]), 3)
+    self.assertEqual(quantidade_de_balancos_positivos([{ "mes": "janeiro", "lucro": 10 }, { "mes": "fevereiro", "lucro": -14 }, { "mes": "março", "lucro": 2 }, { "mes": "abril", "lucro": 100 }]), 3)
   
   def test_quantidade_de_balanços_positivos_quando_todos_os_meses_têm_ganho_negativo_é_zero(self):
     self.assertEqual(quantidade_de_balancos_positivos([{ "mes": "janeiro", "lucro": -1 }, { "mes": "fevereiro", "lucro": -2 }, { "mes": "março", "lucro": -3 }]), 0)
