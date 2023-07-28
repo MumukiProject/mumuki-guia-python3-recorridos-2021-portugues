@@ -1,7 +1,6 @@
 ---
 rules:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+- when:
     only_these_expectations_failed:
     - lucro_total UsesForeach
   then: não se esqueça de usar um `for...in` para percorrer a lista de balanços
